@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @rembrandt88
-- 👀 I’m interested in Python and Data Science.
+- 👋 Hi, I’m @rembiaszadam
+- 👀 I’m interested in Python and Data Science, hopefully I get to ML and AI later.
 - 🌱 I’m currently doing a course in Data Science.
-- 💞️ I’m looking to collaborate on, I don't know yet, still learing.
+- 💞️ I’m looking to collaborate on, I don't know yet, still learing. If you have an interesting idea let me know!
 - 📫 How to reach me, LinkedIn:
        https://www.linkedin.com/in/adam-rembiasz-732b47174/?locale=en_US
-
-<!---
-rembrandt88/rembrandt88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
